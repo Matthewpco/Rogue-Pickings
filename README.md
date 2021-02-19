@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Matthewpco/Jubilee-Design/master/img/JD-SS1.png)
+![](https://raw.githubusercontent.com/Matthewpco/Rogue-Pickings/master/img/rp-ss.png)
 
 # This is a web site for roaming fresh food service Rogue Pickings
 
@@ -22,5 +22,3 @@
 - Elegant design with CSS 3
 - U/I Best Practices
 <br>
-
-![](https://raw.githubusercontent.com/Matthewpco/Jubilee-Design/master/img/JD-SS2.png)
